@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at http://codepen.io/yesasha/pen/jbVJZX.
+
+ This is simple simulation of spring. Where every node is a letter. The letters are connected with spring or rubber according to Hooke's law. The bigger part of this pen is not a simulation, but the ability to drag the letters with mouse and with fingers on screens with touch support. Multi Touch is supported! The letters are HTML/CSS (no canvas). Works on modern browsers and ie9+!

@@ -1,0 +1,59 @@
+body {
+  overflow: hidden;
+  background-color: #444444;
+  color: #111;
+}
+body, div {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  font-family: "roboto";
+}
+div.letters {
+  position: absolute;
+  overflow: hidden;
+  text-align: center;
+  font-size: 48px;
+  line-height: 56px;
+  width: 56px;
+  height: 56px;
+  cursor: move;
+}
+
+#id12 {
+  color: #53BEE3;
+
+}
+
+#id3 {
+  color:#fff799;
+}
+
+#id4 {
+  color:#F4B400;
+}
+
+#id1 {
+  color: #4285F4;
+}
+#id2 {
+  color: #DB4437;
+}
+#id13 {
+  color: #D0D0D0;
+}
+
+.go {
+/*  background: #444444;*/
+  height:100%;
+  width:100%;
+/*  border-radius: 50%;
+*/  position: absolute;
+  margin-right: auto;
+ margin-left: auto;
+  bottom: 20%;
+  z-index: 0;
+}
